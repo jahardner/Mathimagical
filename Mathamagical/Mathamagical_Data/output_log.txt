@@ -1,0 +1,36 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.451 seconds
+Platform assembly: C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\J.Appallonia\Desktop\Mathamagical\Mathamagical_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.423215 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.140026 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.569633 ms (FindLiveObjects: 0.062865 ms CreateObjectMapping: 0.051318 ms MarkObjects: 0.441337 ms  DeleteObjects: 0.012401 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4d44 -> priority: 1 
+  Thread -> id: 298c -> priority: 1 
